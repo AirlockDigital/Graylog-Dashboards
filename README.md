@@ -1,4 +1,6 @@
 
+### For Graylog Marketplace, please click on VIEW, download does not work
+
 ## Airlock Digital - Graylog Dashboards Top/Bottom Values
 
 Installation Steps:
