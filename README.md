@@ -5,6 +5,8 @@
 
 Installation Steps:
 
+NOTE, for v3.+, please make sure to download v3 file.
+
 Import the content pack, this will include two dashboards:
 
 Airlock Digital Dashboard - Top Events
